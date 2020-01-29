@@ -2,7 +2,7 @@
 
 namespace Codility
 {
-    public sealed class Perm
+    public sealed class PermCheck
     {
         public static int Solution(int[] array)
         {
