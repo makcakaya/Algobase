@@ -5,7 +5,11 @@ VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Codility", "Codility\Codility.csproj", "{8003B436-8EDD-47D6-A88F-E327A5004BD7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility.Tests", "Codility.Tests\Codility.Tests.csproj", "{4B56C602-628B-4CF3-9D69-76DCB2130D22}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Codility.Tests", "Codility.Tests\Codility.Tests.csproj", "{4B56C602-628B-4CF3-9D69-76DCB2130D22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Euler", "Euler\Euler.csproj", "{C8823533-E631-449A-B61B-556E734EFADE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Euler.Tests", "Euler.Tests\Euler.Tests.csproj", "{080EAA68-E4DC-4253-AF44-0A9B2CD14B91}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{4B56C602-628B-4CF3-9D69-76DCB2130D22}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4B56C602-628B-4CF3-9D69-76DCB2130D22}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4B56C602-628B-4CF3-9D69-76DCB2130D22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8823533-E631-449A-B61B-556E734EFADE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8823533-E631-449A-B61B-556E734EFADE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8823533-E631-449A-B61B-556E734EFADE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8823533-E631-449A-B61B-556E734EFADE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{080EAA68-E4DC-4253-AF44-0A9B2CD14B91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{080EAA68-E4DC-4253-AF44-0A9B2CD14B91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{080EAA68-E4DC-4253-AF44-0A9B2CD14B91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{080EAA68-E4DC-4253-AF44-0A9B2CD14B91}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
