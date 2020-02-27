@@ -7,9 +7,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Codility", "Codility\Codili
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Codility.Tests", "Codility.Tests\Codility.Tests.csproj", "{4B56C602-628B-4CF3-9D69-76DCB2130D22}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Euler", "Euler\Euler.csproj", "{C8823533-E631-449A-B61B-556E734EFADE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Euler", "Euler\Euler.csproj", "{C8823533-E631-449A-B61B-556E734EFADE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Euler.Tests", "Euler.Tests\Euler.Tests.csproj", "{080EAA68-E4DC-4253-AF44-0A9B2CD14B91}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Euler.Tests", "Euler.Tests\Euler.Tests.csproj", "{080EAA68-E4DC-4253-AF44-0A9B2CD14B91}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HackerRank", "HackerRank\HackerRank.csproj", "{375FE9E5-22CD-4D10-9D3C-8FF1B79864EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank.Tests", "HackerRank.Tests\HackerRank.Tests.csproj", "{961A35F0-9704-4A01-A81F-BB106DDA1388}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{080EAA68-E4DC-4253-AF44-0A9B2CD14B91}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{080EAA68-E4DC-4253-AF44-0A9B2CD14B91}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{080EAA68-E4DC-4253-AF44-0A9B2CD14B91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{375FE9E5-22CD-4D10-9D3C-8FF1B79864EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{375FE9E5-22CD-4D10-9D3C-8FF1B79864EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{375FE9E5-22CD-4D10-9D3C-8FF1B79864EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{375FE9E5-22CD-4D10-9D3C-8FF1B79864EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{961A35F0-9704-4A01-A81F-BB106DDA1388}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{961A35F0-9704-4A01-A81F-BB106DDA1388}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{961A35F0-9704-4A01-A81F-BB106DDA1388}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{961A35F0-9704-4A01-A81F-BB106DDA1388}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
